@@ -10,6 +10,7 @@
 
 ## Fixed
 -> Fixed conclude error
+-> Fixed editing handler
 
 ## Improvements
 
